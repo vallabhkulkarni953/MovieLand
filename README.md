@@ -14,7 +14,7 @@ OMDB API for Movies<br>
 
 <hr>
 
-Dataset Link (Redirecting to Kaggle): https://www.kaggle.com/datasets/tastycoderop/sports-person-dataset/data
+Movie Database API Link : [https://www.omdbapi.com/apikey.aspx](url)
 <hr>
 
 ![image](https://github.com/user-attachments/assets/0a2bef20-16ea-44ba-8ca9-776859e94288)
