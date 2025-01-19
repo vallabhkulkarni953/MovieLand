@@ -1,5 +1,8 @@
+# MOVIELAND WEBPAGE (REACT)
+
 ![image](https://github.com/user-attachments/assets/0a2bef20-16ea-44ba-8ca9-776859e94288)
 
+![image](https://github.com/user-attachments/assets/ba646188-5181-43ab-bd58-59ee3e1e8e38)
 
 # Getting Started with Create React App
 
