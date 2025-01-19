@@ -1,5 +1,19 @@
 # MOVIELAND WEBPAGE (REACT)
 
+A Front End Web Development Project Created using REACT. JS library and OMDB API for using and learning React concepts to display and search famous Movies.
+
+<hr>
+
+## Tech Stack : 
+Frontend : HTML, CSS, JavaScript, JQuery <br>
+Backend : Flask <br>
+Models : Classifier Models including SVM, Random Forest, Logistic Regression <br>
+Others : Wavelet Transform 2D, Haar Cascades
+<hr>
+
+Dataset Link (Redirecting to Kaggle): https://www.kaggle.com/datasets/tastycoderop/sports-person-dataset/data
+<hr>
+
 ![image](https://github.com/user-attachments/assets/0a2bef20-16ea-44ba-8ca9-776859e94288)
 
 ![image](https://github.com/user-attachments/assets/ba646188-5181-43ab-bd58-59ee3e1e8e38)
@@ -74,3 +88,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## Thanks for Visiting This Project !!! Please do check out other projects too !!
