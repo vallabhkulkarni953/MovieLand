@@ -4,11 +4,14 @@ A Front End Web Development Project Created using REACT. JS library and OMDB API
 
 <hr>
 
-## Tech Stack : 
-Frontend : HTML, CSS, JavaScript, JQuery <br>
-Backend : Flask <br>
-Models : Classifier Models including SVM, Random Forest, Logistic Regression <br>
-Others : Wavelet Transform 2D, Haar Cascades
+## Concepts Used : 
+CSS
+React Library
+React Hooks
+React States
+React Effects
+OMDB API for Movies
+
 <hr>
 
 Dataset Link (Redirecting to Kaggle): https://www.kaggle.com/datasets/tastycoderop/sports-person-dataset/data
