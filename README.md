@@ -6,11 +6,11 @@ A Front End Web Development Project Created using REACT. JS library and OMDB API
 
 ## Concepts Used : 
 CSS
-React Library
-React Hooks
-React States
-React Effects
-OMDB API for Movies
+React Library <br>
+React Hooks<br>
+React States<br>
+React Effects<br>
+OMDB API for Movies<br>
 
 <hr>
 
